@@ -15,4 +15,4 @@ Instale o json-server e utilize o seguinte comando:
 json-server --host 0.0.0.0 --port 3000 movies-2020s.json
 ```
 
-# Adaptado por Bruno Jamelli, com base no [link repositório base](https://github.com/taniro/flutter_repository_clean)
+Adaptado por Bruno Jamelli, com base no [link repositório base](https://github.com/taniro/flutter_repository_clean)
